@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the compile type object oriented programming language.
+=======
+This is a compile type object oriented programming language.
+>>>>>>> origin/master
